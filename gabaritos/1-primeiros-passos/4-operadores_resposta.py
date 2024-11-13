@@ -8,6 +8,7 @@ idade = ano_formatura - ano_nascimento
 print(ano_nascimento > ano_formatura)
 print(ano_nascimento <= ano_formatura)
 print(ano_nascimento == ano_formatura)
+print(ano_nascimento != ano_formatura)
 
 # Crie expressões comparativas mais complexas utilizando operadores lógicos and, or e not. Imprima na tela as respostas
 print((ano_nascimento > ano_formatura) and (ano_nascimento > ano_formatura))
